@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a software engineer with a passion for creating practical solutions for everyday issues.
 
-Currently, I'm immersed in the development of my latest project, "Track the Habit." This is basically a habit tracker, designed to offer a simple, clear-cut way of monitoring the yearly progress of weekly habits. 
+Currently, working at Adyen as a Front-end engineer and also immersed in the development of my latest side-project, "Track the Habit." This is basically a habit tracker, designed to offer a simple, clear-cut way of monitoring the yearly progress of weekly habits.  
 
 Without having to create many to-do lists this is a single list that will open checkboxes for you to fill in every week.
 
