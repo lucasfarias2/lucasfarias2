@@ -7,7 +7,7 @@ Without having to create many to-do lists this is a single list that will open c
 
 I took the initiative to develop this app when I realized the market lacked what I was looking for. Although still in its early stages (and with a few bugs), it's already live and I use it every day as part of my routine.
 
-I have a very minimalistic website: [https://lucasfarias.com](lucasfarias.com) where I share updates about my ongoing projects and occasional insights into my development journey.
+I have a very minimalistic website: [https://lucasfarias.com](https://lucasfarias.com) where I share updates about my ongoing projects and occasional insights into my development journey.
 
 Feel free to reach me out if you have any suggestions or ideas.
 
