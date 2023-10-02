@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer with a passion for creating practical solutions for everyday issues.
+I'm a software engineer with a passion for expanding my knowledge into multiple areas and applying what I learn to real world projects.
 
 Currently, working at Adyen as a Front-end engineer and also immersed in the development of my side-projects, which this far are:
 - **TrackTheHabit**: Personal habit tracker
