@@ -3,7 +3,8 @@ I'm a software engineer with a passion for creating practical solutions for ever
 
 Currently, working at Adyen as a Front-end engineer and also immersed in the development of my side-projects, which this far are:
 - **TrackTheHabit**: Personal habit tracker
-- **Packlify**: Web framework wrapping React for server rendered applications.
+- **Packlify**: Platform for product development solutions.
+  - **Packlify web sdk**: Web framework wrapping React for server rendered applications.
 
 I have a very minimalistic website: [https://lucasfarias.com](https://lucasfarias.com) where I share updates about my ongoing projects and occasional insights into my development journey.
 
