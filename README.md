@@ -11,3 +11,5 @@ I have a very minimalistic website: [https://lucasfarias.com](https://lucasfaria
 Feel free to reach me out if you have any suggestions or ideas.
 
 Thanks for checking my profile.
+
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfarias2)](https://github.com/lucasfarias2/github-readme-stats)
